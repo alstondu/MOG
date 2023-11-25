@@ -11,10 +11,10 @@ Tested against Python 3.6.6. Required Python modules:
 ------
 ## Introduction
 ### Part I
-The aim of part A is to fit one Gaussian model to the data for skin and another Gaussian to non-skin pixels, and use this to find the posterior probability that each pixel in an image is skin.\
+[practicalMixGaussA.ipynb](https://github.com/alstondu/MOG/blob/main/Part_I/practicalMixGaussA.ipynb) fits one Gaussian model to the data for skin and another Gaussian to non-skin pixels, and use this to find the posterior probability that each pixel in an image is skin.\
 \
-The aim of part B is to fit a mixture of Gaussians model to one dimensional data.\
+[practicalMixGaussB.ipynb](https://github.com/alstondu/MOG/blob/main/Part_I/practicalMixGaussB.ipynb) fits a mixture of Gaussians model to one dimensional data.\
 \
-The aim of part C is to fit a mixture of Gaussians model to the RGB data.\
+[practicalMixGaussC.ipynb](https://github.com/alstondu/MOG/blob/main/Part_I/practicalMixGaussC.ipynb) fits a mixture of Gaussians model to the RGB data.\
 ### Part II
-Train a mixture of Gaussians model and use it to inferece apples in unknown image.
+[practicalMixGauss_Apples.ipynb](https://github.com/alstondu/MOG/blob/main/Part_II/practicalMixGauss_Apples.ipynb) trains a mixture of Gaussians model and use it to inferece apples in unknown image.
